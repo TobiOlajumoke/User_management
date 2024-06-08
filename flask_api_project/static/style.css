@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-right: 10px;
+}
+
+ul#userList {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+ul#userList li {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    margin-top: 10px;
+}
