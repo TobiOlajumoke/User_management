@@ -1,5 +1,8 @@
-# STep 1
-To run this project you need to clone this repo to your local machine
+
+To run this projecte
+
+# Step 1
+You need to clone this repo to your local machin
 `https://github.com/TobiOlajumoke/User_management.git`
 
 # Step 2
